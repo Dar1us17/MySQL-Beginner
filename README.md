@@ -46,8 +46,4 @@ The files are numbered in the order I worked through them, and each one focuses 
 3. Run `01. Parks_and_Rec_Create_db.sql` first to create and populate the practice database.
 4. Open the other scripts in order and run them query by query.
 
-## About Me
-
-I'm Darius, a student at ASE București studying macroeconomics. I built this repository to strengthen my SQL skills for data analysis.
-
 [GitHub: @Dar1us17](https://github.com/Dar1us17)
